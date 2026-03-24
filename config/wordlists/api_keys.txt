@@ -1,5 +1,0 @@
-ptlc_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-ptlc_test_xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-test_key_123
-admin_key
-api_key_v1

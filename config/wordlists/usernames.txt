@@ -1,9 +1,0 @@
-admin@localhost
-administrator@localhost
-root@localhost
-admin@example.com
-administrator
-admin
-test
-user
-support@localhost
